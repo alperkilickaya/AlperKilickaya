@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi folks! 👋
 
 Here are some ideas to get you started:
 
