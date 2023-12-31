@@ -18,10 +18,7 @@ Here are some ideas to get you started:
   <a href="https://play.google.com/store/apps/details?id=com.moviesappalper"  target="_blank"><img src="https://img.shields.io/badge/-Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=green&color=white" target="_blank"></a> 
 </div>
 <br>
-<div align="left">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=alperkilickaya&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperkilickaya&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
