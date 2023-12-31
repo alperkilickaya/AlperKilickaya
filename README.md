@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-End Development | Javascript | ReactJS | React Native | NextJS
+- 🔭 I’m currently working on Front-End Development | Javascript | ReactJS | TypeScript | React Native | NextJS
 
 ### 📩 Connect with me:
 
