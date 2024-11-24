@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <div style="backgroundcolor:red"> 
   <a href = "mailto:alperkilickaya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alperkilickaya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@alperkilickaya" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@alperkilickaya" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=blach&color=white" target="_blank"></a> 
   
   ### ⚠️ Projects:
   
