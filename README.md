@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   
   ### ⚠️ Projects:
   
-  <a href="https://play.google.com/store/apps/details?id=com.elipsbilisim.mobilsporcu&hl=tr&gl=US"  target="_blank"><img src="https://img.shields.io/badge/-Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=green&color=white" target="_blank"></a> 
+  <a href="https://play.google.com/store/apps/details?id=com.elipsbilisim.mobilsporcu&hl=tr&gl=US"  target="_blank">MobilSporcu</a> 
   <a href="https://play.google.com/store/apps/details?id=com.elipsbilisim.mobilkresyeni&hl=tr&gl=US"  target="_blank"><img src="https://img.shields.io/badge/-Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=green&color=white" target="_blank"></a> 
   <a href="https://play.google.com/store/apps/details?id=com.moviesappalper"  target="_blank"><img src="https://img.shields.io/badge/-Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=green&color=white" target="_blank"></a> 
 </div>
