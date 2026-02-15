@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-End and Mobile Development
+- 🔭 I’m currently working on ERP Software Management, Front-End and Mobile Development
 
 ### 📩 Connect with me:
 
